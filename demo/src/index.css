@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+.test-panel {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.test-container {
+    margin: 0 auto;
+}
+
+.large {
+    background-color: #eee;
+}
+
+.small {
+    background-color: #e0e8e0;
+}
+
+.medium {
+    background-color: #eaeaea;
+}

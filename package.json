@@ -1,0 +1,37 @@
+{
+  "name": "react-element-query",
+  "version": "1.0.0",
+  "description": "react-element-query React component",
+  "main": "lib/index.js",
+  "jsnext:main": "es6/index.js",
+  "files": [
+    "css",
+    "es6",
+    "lib",
+    "umd"
+  ],
+  "scripts": {
+    "build": "nwb build",
+    "clean": "nwb clean",
+    "start": "nwb serve",
+    "test": "nwb test",
+    "test:watch": "nwb test --server"
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "react": "0.14.x"
+  },
+  "devDependencies": {
+    "nwb": "0.9.x",
+    "react": "15.x",
+    "react-dom": "15.x"
+  },
+  "author": "",
+  "homepage": "",
+  "license": "MIT",
+  "repository": "",
+  "keywords": [
+    "react-component"
+  ]
+}
